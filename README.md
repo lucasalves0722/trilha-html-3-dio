@@ -16,3 +16,9 @@ Para começar, trabalhei na estruturação do site utilizando HTML5 e um pouco d
 
 ### Projeto finalizado
 ![Preview](.github/preview.jpg)
+
+### :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
+---
